@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Omi and I'm a Software Developer, from [Your Location]</h2>
+<h2 align="left">Hi 👋! My name is Omi and I'm a Software Developer, from [Baramati]</h2>
 
 ###
 
