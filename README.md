@@ -28,7 +28,7 @@
   <a href="https://www.youtube.com/[YourProfile]" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
-  <a href="https://www.instagram.com/omkaar_bagade_143" >
+  <a href="https://www.instagram.com/omkar_bagade_143" >
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="https://www.twitch.tv/[YourProfile]" target="_blank">
